@@ -10,8 +10,6 @@ The code is in C++ as `clock.cpp`
 
 ## Runing the code
 
-The code depends only on standard libraries:
-
 ```bash
 g++ clock.cpp -o clock
 ./clock;
