@@ -2,10 +2,10 @@
 
 The code is in C++ as `clock.cpp` 
 
-* `main()` sets up the controller
-* Controller instantiates a `Clock` object
-* Clock updates a `Time` Model object
-* Time is delivered to a `Display` View object
+* `main()` sets up the model, view, and controller
+* Controller holds a `Clock` object
+* Clock holds a `Time` Model object
+* Time is delivered to `Display` as View object
 
 
 ## Runing the code
