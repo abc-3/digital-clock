@@ -12,7 +12,7 @@ The code is in C++ as `clock.cpp`
 
 ```bash
 g++ clock.cpp -o clock
-./clock;
+./clock
 ```
 
 [Link to Google Colab notebook](https://colab.research.google.com/drive/1Wi6Oxl1q_yKlB2IIhmeXwUr2uZGfeAH8?usp=sharing)
