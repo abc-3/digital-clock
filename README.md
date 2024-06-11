@@ -1,4 +1,4 @@
-# Clock in C++ using MVC architecture
+# Clock in C++
 
 The code is in C++ as `clock.cpp` 
 
